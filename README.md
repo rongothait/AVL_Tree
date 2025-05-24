@@ -2,10 +2,8 @@
 
 A Python implementation of an **AVL Tree**, a self-balancing binary search tree that maintains height balance to ensure O(log n) time complexity for insertions, deletions, and lookups.
 
-## Authors
-
-- Ron Gothait — `rongothait`
-- Sean Di Nur — `seandinur`
+## Thank You's
+special thanks to Sean on collaborating with me on this project :) 
 
 ## Features
 
